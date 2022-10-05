@@ -1,0 +1,4 @@
+﻿  Lab6_2022.cpp
+C:\Users\leydi\Downloads\Lab6_2022\Lab6_2022.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leydi\Downloads\Lab6_2022\Lab6_2022.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+  Lab6_2022.vcxproj -> C:\Users\leydi\Downloads\Lab6_2022\x64\Debug\Lab6_2022.exe
